@@ -4,3 +4,6 @@
 java -jar excel-util-1.0.0-RELEASE.jar C:/excel-data/sample.xlsx C:/excel-data/打卡记录.xlsx
 
 源码路径：https://github.com/ghost0224/excel-util.git
+
+注：
+目前不支持原始数据跨月情况，可以调打卡记录时按月拉取，或者手工调整后使用。
